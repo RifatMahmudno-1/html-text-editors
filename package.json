@@ -10,8 +10,8 @@
 		"postinstall": "nuxt prepare"
 	},
 	"dependencies": {
-		"ckeditor5": "^43.1.0",
-		"nuxt": "^3.13.0",
+		"ckeditor5": "^43.2.0",
+		"nuxt": "^3.13.2",
 		"tinymce": "^7.3.0",
 		"vue": "latest",
 		"vue-router": "latest"
